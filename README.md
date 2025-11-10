@@ -1,3 +1,8 @@
+
+This Repo is my attempt to add functionality to the amazing Meshtastic ecosystem by way of a module that can add multiple buttons and LED's to available GPIO's, use those buttons to send messages to specific channels, and have responses generated back to the message source.  This is the starting point, the meshtastic base.  My code will be visible when sufficient progress has been made.  Thanks to the Meshtastic team, and countless other community supporters.  
+
+<hr width = x>
+
 <div align="center" markdown="1">
 
 <img src=".github/meshtastic_logo.png" alt="Meshtastic Logo" width="80"/>
