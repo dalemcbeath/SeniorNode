@@ -1,5 +1,5 @@
 
-This Repo is my attempt to add functionality to the amazing Meshtastic ecosystem by way of a module that can add multiple buttons and LED's to available GPIO's, use those buttons to send messages to specific channels, and have responses generated back to the message source.  This is the starting point, the meshtastic base.  My code will be visible when sufficient progress has been made.  Thanks to the Meshtastic team, and countless community supporters.  
+This Repo is my attempt to add functionality to the amazing Meshtastic ecosystem by way of a module that can add multiple buttons and LED's to available GPIO's, use those buttons to send messages to specific channels, and have responses generated back to the message source.  This is the starting point, the meshtastic base.  My code will be visible when sufficient progress has been made.  Thanks to the Meshtastic team, and countless community supporters who have given us the opportunity to develope inside this wonderful environment.
 
 2025-11-09  PoC is working
   - variant built for Heltec-V3 using all available GPIOs
