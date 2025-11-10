@@ -1,5 +1,16 @@
 
-This Repo is my attempt to add functionality to the amazing Meshtastic ecosystem by way of a module that can add multiple buttons and LED's to available GPIO's, use those buttons to send messages to specific channels, and have responses generated back to the message source.  This is the starting point, the meshtastic base.  My code will be visible when sufficient progress has been made.  Thanks to the Meshtastic team, and countless other community supporters.  
+This Repo is my attempt to add functionality to the amazing Meshtastic ecosystem by way of a module that can add multiple buttons and LED's to available GPIO's, use those buttons to send messages to specific channels, and have responses generated back to the message source.  This is the starting point, the meshtastic base.  My code will be visible when sufficient progress has been made.  Thanks to the Meshtastic team, and countless community supporters.  
+
+2025-11-09  PoC is working
+  - variant built for Heltec-V3 using all available GPIOs
+  - module created and registered, only reliant on msg texts via normal protobuf actions
+  - buttons at various GPIOs active, cause LED's to light, send messages to specific channels
+  - remote can turn on/off leds via msg commands
+
+2025-11-05  Starting project with no knowledge of how GitHub works!
+  - Defining goals:  need node that has multiple buttons that can send messages and LEDs that show response or ack or waiting.
+  - human target group is Seniors with little tech knowledge
+
 
 <hr width = x>
 
